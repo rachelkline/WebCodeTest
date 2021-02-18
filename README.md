@@ -1,6 +1,7 @@
 # Webstaurant JS Code Test
 
-For the code test, you'll build a simple restaurant-esque product ordering application using React and React hooks. Provided is a UI skeleton of the application that you need to add all of the functionality to. These are the specs for the final product:
+For this code test, I was tasked with building a simple restaurant-esque product ordering application using React and React hooks. Provided is a UI skeleton of the application that you need to add all of the functionality to. These are the specs for the final product:
+
 
 * When a user clicks on one of the products, it should add that product to the Buy List box
 * The Buy List product display should show the following information (theres a template for this in BuyList.jsx):
